@@ -1,0 +1,4 @@
+from Tkinter import *
+root = Tk()
+canvas = Canvas(root, width =1224,height=1000)
+logo=PhotoImage(file="myimage.jpg")
